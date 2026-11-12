@@ -1,1 +1,1 @@
-# Digitalizaci-n-4ESO-26-27
+# Cuaderno de Digitalización 26/27
