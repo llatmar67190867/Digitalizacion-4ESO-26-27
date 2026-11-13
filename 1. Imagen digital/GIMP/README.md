@@ -1,3 +1,3 @@
-<p align="center">
-<img src="Imágenes/ICONO GIMP.svg" width="600" height="600" />
-</p>
+<img src="Imágenes/ICONO GIMP.svg" width="300" height="300" />
+
+Autor: Aryeom Han → Licencia CC BY-SA 4.0
