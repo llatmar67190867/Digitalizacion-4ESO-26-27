@@ -1,3 +1,3 @@
 <p align="center">
-<img src="Imágenes/ICONO GIMP.svg" width="100" height="100" />
+<img src="Imágenes/ICONO GIMP.svg" width="600" height="600" />
 </p>
