@@ -5,3 +5,7 @@ Esta fue nuestra primera práctica evaluada en GIMP. En esta, debimos de tunear 
 
 ## Herramientas utilizadas
 Para esta práctica, utilizamos un par de herramientas en GIMP que nos proporcionaban ayuda, facilitando mucho el trabajo. Para ello, nuestro profesor nos proporcionó una imagen original para modificar, como podemos ver abajo:
+
+<p align="center">
+<img src="Imágenes/ZAPATILLA.png" width="500" height="600" />
+</p>
