@@ -4,3 +4,5 @@ Bienvenidos a mi cuaderno de ingeniería de la asignatura de Digitalización par
 <p align="center">
 <img src="Imágenes principales/Digitalización.jpeg" width="700" height="600" />
 </p>
+
+Aquí debajo podemos observar una tabla en la que podemos acceder a todas las carpeta de forma más sencilla:
