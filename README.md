@@ -9,9 +9,9 @@ Aquí debajo podemos observar una tabla en la que podemos acceder a todas las ca
 
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
-| `Imagen digital` | <img src="Imágenes/ARDUINO Y COMPONENTES.png" width="450" height="450" /> | [Pincha aquí](https://github.com/nitropungos3000/Robotica-Y-Vision-Artificial-4-ESO/tree/main/1.%20Pasos%20previos) |
-|  | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| `1. Imagen digital` | <img src="Imágenes/ARDUINO Y COMPONENTES.png" width="450" height="450" /> | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/1.%20Imagen%20digital) |
+| `2. Ciudadanía digital crítica` | --- | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/2.%20Ciudadan%C3%ADa%20Digital%20Cr%C3%ADtica) |
+| `3. Herramientas de Google` | --- | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/3.%20Herramientas%20de%20Google) |
+| `4. Hardware` | --- | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/4.%20Hardware) |
+| `5. Programación` | --- | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/5.%20Programaci%C3%B3n) |
+| `6. Lecturas` | --- | [Pincha aquí](https://github.com/llatmar67190867/Digitalizacion-4ESO-26-27/tree/main/6.%20Lecturas) |
