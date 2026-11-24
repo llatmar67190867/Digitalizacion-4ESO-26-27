@@ -19,3 +19,7 @@ Aquí debajo podemos ver la interfaz de GIMP que utilizamos todos
 <p align="center">
 <img src="Imágenes/INTERFAZ GIMP.jpg" width="600" height="500" />
 </p>
+
+Autor: The GIMP Team → Licencia CC BY-SA 4.0
+
+Las diferentes herramientas que utilizaremos en las diferentes prácticas las iré explicando en las diferentes carpetas. 
