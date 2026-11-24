@@ -17,5 +17,5 @@ GIMP (Acrónimo de GNU Image Manipulation Program) es un programa libre, gratuit
 Aquí debajo podemos ver la interfaz de GIMP que utilizamos todos
 
 <p align="center">
-<img src="Imágenes/ICONO GIMP.svg" width="300" height="300" />
+<img src="Imágenes/INTERFAZ GIMP.jpg" width="600" height="500" />
 </p>
