@@ -12,4 +12,6 @@ GIMP (Acrónimo de GNU Image Manipulation Program) es un programa libre, gratuit
 
 **• Pintura y dibujo digital:** usar pinceles, herramientas de selección, filtros y tabletas gráficas.
 
-**• Conversión y automatización:** exportar y convertir formatos (como XCF, PNG, JPG, PSD, PDF o SVG) y automatizar tareas con complementos o scripts
+**• Conversión y automatización:** exportar y convertir formatos (como XCF, PNG, JPG, PSD, PDF o SVG) y automatizar tareas con complementos o scripts.
+
+Aquí debajo podemos ver la interfaz de GIMP que utilizamos todos
