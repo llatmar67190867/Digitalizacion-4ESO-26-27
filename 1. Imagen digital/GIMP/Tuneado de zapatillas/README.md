@@ -20,3 +20,8 @@ Ahora, manteniéndo la selección, pulsamos las teclas, todas a la vez, Control 
 
 ## Práctica finalizada
 Abajo podemos observar una imagen sobre cómo quedó mi práctica completamente terminada:
+
+<p align="center">
+<img src="Imágenes/ZAPATILLA LORENZO.png" width="500" height="600" />
+</p>
+
