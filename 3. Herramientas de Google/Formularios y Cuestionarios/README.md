@@ -18,7 +18,7 @@ Existen otras opciones en los ajustes, pero estas son las mejores para transform
 
 Ahora, pasamos a los tipos de preguntas que podemos tener en el cuestionario, justo debajo vemos una tabla con la opción, ejemplo y foto correspondiente. 
 
-| Tipo de pregunta | Imagen en bruto | Ejemplo en el formulario |
+| Tipo de pregunta | Función | Ejemplo en el formulario |
 | --- | --- | ---|  
 | `Varias opciones` | Se muestran varias opciones, pero solo uno se selecciona y solo una es la correcta | |
 | `Casillas` | Se seleccionan una o varias respuestas, y puede haber una o varias respuestas correctas | |
